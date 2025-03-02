@@ -65,3 +65,6 @@ Ridică o excepție ValueError dacă numărul este negativ.
 
 # Instalare:
 Pentru a utiliza acest modul, trebuie doar să importați fișierul Python în proiectul dumneavoastră. Nu sunt necesare instalări suplimentare de pachete externe.
+
+# Contribuții
+## Dacă dorești să îmbunătățești acest program sau să adaugi funcționalități suplimentare, te rog să contribui printr-un pull request.
